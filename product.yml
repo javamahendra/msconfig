@@ -11,8 +11,7 @@ spring:
     properties:
       hibernate:
         dialect: org.hibernate.dialect.MySQL8Dialect
-  application:
-    name: PRODUCTSERVICE
+  
     
 eureka:
   client:
